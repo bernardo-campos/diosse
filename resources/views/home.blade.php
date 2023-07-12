@@ -1,4 +1,4 @@
-@extends('master')
+@extends('modernizer.master')
 
 @section('body')
 HOLA

@@ -14,12 +14,12 @@
   <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
     data-sidebar-position="fixed" data-header-position="fixed">
 
-    @include('sidebar')
+    @include('modernizer.sidebar')
 
     <!--  Main wrapper -->
     <div class="body-wrapper">
 
-      @include('header')
+      @include('modernizer.header')
 
       <div class="container-fluid">
 
